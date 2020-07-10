@@ -12,7 +12,7 @@ db.Start()
 
         const b = db.Filter('users', { property: 'name', filterString: 'Joel' });
         console.log(b);
-        db.Add('asdas',{asdas:"asdas"})
+        await db.Add('asdas',{asdas:"asdas"})
         db.Save(); 
     })
     .finally(() => {

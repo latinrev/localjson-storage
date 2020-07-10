@@ -102,7 +102,7 @@ const JsonManager = (fileToParse) => {
      * @param {String} filterString - Desired filter to search in array
      * @param {Array} place - Desired array to search
      */
-    // ! EMPTY ARGUMENT ERROR HANDLING
+        // ! EMPTY ARGUMENT ERROR HANDLING
         Filter: (table, { property, filterString }) => {
             if (dbstatus) {
                 return operation[table].filter((curr) => curr[property].toLowerCase().includes(filterString.toLowerCase()));
@@ -110,10 +110,10 @@ const JsonManager = (fileToParse) => {
             errors++;
             throwDatabaseNotOpen();
         },
-        /*
-        /**
-     * Returns entire database
 
+        /**
+     *  Returns entire database
+     */
         Docs: () => {
             if (dbstatus) {
                 return operation;
@@ -121,6 +121,7 @@ const JsonManager = (fileToParse) => {
             errors++;
             throwDatabaseNotOpen();
         },
+
         /**
      * Structure of items inside dataabse this is not necessary but is highly
      * recommended to have the structure of items displayed on auto-complete
@@ -170,14 +171,18 @@ const JsonManager = (fileToParse) => {
             if (dbstatus) {
                 if (errors === 0) {
                     const rstream = fs.createWriteStream(fileToParse);
-                    rstream.write(JSON.stringify(operation,null,4), 'utf-8', (err) => {
-                        if (err) {
-                            reject(err);
-                        } else {
-                            console.log('File saved succesfully');
-                            resolve();
-                        }
-                    });
+                    rstream.write(
+                        JSON.stringify(operation, null, 4),
+                        'utf-8',
+                        (err) => {
+                            if (err) {
+                                reject(err);
+                            } else {
+                                console.log('File saved succesfully');
+                                resolve();
+                            }
+                        },
+                    );
                 } else {
                     log.error(
                         "Errors! Can't save changes. Please check logs to see the details.",
