@@ -15,12 +15,11 @@
     "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
-    "pino-pretty": "^4.0.0"
+    "pino-pretty": "^4.0.0",
   },
   "dependencies": {
     "nanoid": "^3.1.10",
     "pino": "^6.3.2",
-    "pouchdb": "^7.2.1",
     "qrcode": "^1.4.4"
   }
 }
