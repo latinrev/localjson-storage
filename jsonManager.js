@@ -105,7 +105,7 @@ const JsonManager = (fileToParse) => {
     // ! EMPTY ARGUMENT ERROR HANDLING
         Filter: (table, { property, filterString }) => {
             if (dbstatus) {
-                return operation[table].filter((curr) => curr[property].toLowerCase().includes(filterString.toLowerCase));
+                return operation[table].filter((curr) => curr[property].toLowerCase().includes(filterString.toLowerCase()));
             }
             errors++;
             throwDatabaseNotOpen();
@@ -170,7 +170,7 @@ const JsonManager = (fileToParse) => {
             if (dbstatus) {
                 if (errors === 0) {
                     const rstream = fs.createWriteStream(fileToParse);
-                    rstream.write(JSON.stringify(operation), 'utf-8', (err) => {
+                    rstream.write(JSON.stringify(operation,null,4), 'utf-8', (err) => {
                         if (err) {
                             reject(err);
                         } else {

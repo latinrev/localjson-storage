@@ -1,372 +1,325 @@
 {
-  "maquinas": [
-    {
-      "id": 2,
-      "type": "Technology",
-      "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
-      "email": "peggerton1@comsenz.com"
-    },
-    {
-      "id": 3,
-      "type": "n/a",
-      "description": "Donec ut mauris eget massa tempor convallis.",
-      "email": "amcgenis2@bbb.org"
-    },
-    {
-      "id": 4,
-      "type": "n/a",
-      "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
-      "email": "tliepmann3@amazon.co.uk"
-    },
-    {
-      "id": 5,
-      "type": "Finance",
-      "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-      "email": "kankrett4@xrea.com"
-    },
-    {
-      "id": 6,
-      "type": "Consumer Services",
-      "description": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
-      "email": "jvaughton5@is.gd"
-    },
-    {
-      "id": 7,
-      "type": "Technology",
-      "description": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
-      "email": "lcleeve6@oakley.com"
-    },
-    {
-      "id": 8,
-      "type": "Health Care",
-      "description": "In hac habitasse platea dictumst.",
-      "email": "rshrigley7@adobe.com"
-    },
-    {
-      "id": 9,
-      "type": "Health Care",
-      "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-      "email": "mturneux8@reuters.com"
-    },
-    {
-      "id": 10,
-      "type": "Finance",
-      "description": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
-      "email": "dgaineofengland9@uol.com.br"
-    },
-    {
-      "id": 11,
-      "type": "n/a",
-      "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
-      "email": "msmootha@elegantthemes.com"
-    },
-    {
-      "id": 12,
-      "type": "Technology",
-      "description": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
-      "email": "kmaaszeb@bigcartel.com"
-    },
-    {
-      "id": 13,
-      "type": "Capital Goods",
-      "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-      "email": "rcrosfeldc@yandex.ru"
-    },
-    {
-      "id": 14,
-      "type": "n/a",
-      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
-      "email": "nbuddingtond@google.ru"
-    },
-    {
-      "id": 15,
-      "type": "n/a",
-      "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-      "email": "svignauxe@earthlink.net"
-    },
-    {
-      "id": 16,
-      "type": "Energy",
-      "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
-      "email": "gmcgowingf@dmoz.org"
-    },
-    {
-      "id": 17,
-      "type": "Finance",
-      "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
-      "email": "rseillerg@clickbank.net"
-    },
-    {
-      "id": 18,
-      "type": "n/a",
-      "description": "Donec dapibus.",
-      "email": "wtodh@weebly.com"
-    },
-    {
-      "id": 19,
-      "type": "Finance",
-      "description": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
-      "email": "slawtheri@blogger.com"
-    },
-    {
-      "id": 20,
-      "type": "Basic Industries",
-      "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
-      "email": "nmurchj@google.nl"
-    },
-    {
-      "id": 21,
-      "type": "Public Utilities",
-      "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
-      "email": "ajandourekk@spotify.com"
-    },
-    {
-      "id": 22,
-      "type": "Technology",
-      "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-      "email": "naccombel@cdbaby.com"
-    },
-    {
-      "id": 23,
-      "type": "Health Care",
-      "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-      "email": "iginmanm@imageshack.us"
-    },
-    {
-      "id": 24,
-      "type": "Capital Goods",
-      "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
-      "email": "kgartlandn@etsy.com"
-    },
-    {
-      "id": 25,
-      "type": "Consumer Services",
-      "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-      "email": "iarieso@cyberchimps.com"
-    },
-    {
-      "id": 26,
-      "type": "Capital Goods",
-      "description": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
-      "email": "lmowsonp@slate.com"
-    },
-    {
-      "id": 27,
-      "type": "Consumer Services",
-      "description": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.",
-      "email": "astallebrassq@intel.com"
-    },
-    {
-      "id": 28,
-      "type": "Finance",
-      "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
-      "email": "spennickr@pbs.org"
-    },
-    {
-      "id": 29,
-      "type": "n/a",
-      "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
-      "email": "sgianettis@webmd.com"
-    },
-    {
-      "id": 30,
-      "type": "Health Care",
-      "description": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-      "email": "csummerst@uol.com.br"
-    },
-    {
-      "id": 31,
-      "type": "Consumer Services",
-      "description": "Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
-      "email": "skalkeru@microsoft.com"
-    },
-    {
-      "id": 32,
-      "type": "Finance",
-      "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
-      "email": "ovaneevv@time.com"
-    },
-    {
-      "id": 33,
-      "type": "Finance",
-      "description": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
-      "email": "hsayew@bravesites.com"
-    },
-    {
-      "id": 34,
-      "type": "n/a",
-      "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
-      "email": "arathbournex@cisco.com"
-    },
-    {
-      "id": 35,
-      "type": "Health Care",
-      "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
-      "email": "smacphaily@vinaora.com"
-    },
-    {
-      "id": 36,
-      "type": "Finance",
-      "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
-      "email": "sbrownsellz@vistaprint.com"
-    },
-    {
-      "id": 37,
-      "type": "Health Care",
-      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
-      "email": "glawland10@bravesites.com"
-    },
-    {
-      "id": 38,
-      "type": "Consumer Services",
-      "description": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
-      "email": "citzhaiek11@sourceforge.net"
-    },
-    {
-      "id": 39,
-      "type": "Miscellaneous",
-      "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
-      "email": "gpitts12@w3.org"
-    },
-    {
-      "id": 40,
-      "type": "Energy",
-      "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
-      "email": "chaacker13@examiner.com"
-    },
-    {
-      "id": 41,
-      "type": "n/a",
-      "description": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-      "email": "sdunphie14@wp.com"
-    },
-    {
-      "id": 42,
-      "type": "Basic Industries",
-      "description": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-      "email": "tlaurencot15@nationalgeographic.com"
-    },
-    {
-      "id": 43,
-      "type": "n/a",
-      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
-      "email": "pvanyashin16@blog.com"
-    },
-    {
-      "id": 44,
-      "type": "n/a",
-      "description": "Nam nulla.",
-      "email": "tchess17@chicagotribune.com"
-    },
-    {
-      "id": 45,
-      "type": "Energy",
-      "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
-      "email": "gcornock18@eepurl.com"
-    },
-    {
-      "id": 46,
-      "type": "Consumer Services",
-      "description": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
-      "email": "ncockett19@earthlink.net"
-    },
-    {
-      "id": 47,
-      "type": "n/a",
-      "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-      "email": "asilvers1a@sogou.com"
-    },
-    {
-      "id": 48,
-      "type": "Public Utilities",
-      "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
-      "email": "fdimsdale1b@scribd.com"
-    },
-    {
-      "id": 49,
-      "type": "Consumer Services",
-      "description": "Suspendisse ornare consequat lectus.",
-      "email": "lrosina1c@google.es"
-    },
-    {
-      "id": 50,
-      "type": "Capital Goods",
-      "description": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
-      "email": "tromain1d@aboutads.info"
-    }
-  ],
-  "users": [
-    {
-      "name": "Joel",
-      "lastname": "Castillo",
-      "email": "latinreve@gmail.com",
-      "phone": "+584126334125",
-      "id": "_zcpKb",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAALFSURBVO3BQY7DVgwFwX6E7n/ljpdcfUCQ7GQYVsUP1hjFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijVKsUa5eCgJv6TypiR0Kl0SfknliWKNUqxRijXKxctU3pSEkyTcodKp3KHypiS8qVijFGuUYo1y8WVJuEPlDpUuCb+UhDtUvqlYoxRrlGKNcvE/l4RO5S8r1ijFGqVYo1z8cUk4UemSMFmxRinWKMUa5eLLVL5J5QmVJ1T+S4o1SrFGKdYoFy9Lwi8loVPpktCpdEnoVE6S8F9WrFGKNUqxRokfrDGKNUqxRinWKBcPJaFT6ZLQqXRJ6FS6JHQqb0pCp3JHEjqVkyR0Km8q1ijFGqVYo8QPvigJT6h0SehUTpJwotIloVPpktCpdEk4UemS0Kk8UaxRijVKsUa5eCgJd6h0SThJQqfSJaFT6VS6JNyRhDtUTpLwTcUapVijFGuU+MEPJaFTuSMJnUqXhDepdEk4UbkjCZ3KE8UapVijFGuU+MEDSThROUnCHSpPJKFT6ZJwh8odSehU3lSsUYo1SrFGiR/8YUnoVLokdCp3JOFEpUtCp/JLxRqlWKMUa5SLh5LwSyqdSpeETuUkCZ1Kp3KShDuScKLyRLFGKdYoxRrl4mUqb0rCE0noVDqVkyTcofJvKtYoxRqlWKNcfFkS7lC5IwmdSpeEkyR0KicqXRK6JHQqv1SsUYo1SrFGufjjVE5UuiR0Kl0SOpUuCW9SeVOxRinWKMUa5eKPS8I3JeEOlS4JnUqXhE7liWKNUqxRijXKxZepfJPKHUnoknCicpKEE5UuCZ3Km4o1SrFGKdYoFy9Lwi8loVO5Q6VLQpeETqVTOUnCSRI6lSeKNUqxRinWKPGDNUaxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUYo1SrFH+AfdbG+8M0YT8AAAAAElFTkSuQmCC"
-    },
-    {
-      "name": "Joel",
-      "lastname": "Castillo",
-      "email": "latinreve@gmail.com",
-      "phone": "+584126334125",
-      "id": "Hg-gCx",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKxSURBVO3BQW7sWAwEwSxC979yjpdcPUCQusfmZ0T8wRqjWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoFw8l4ZtUuiR0Kl0S7lDpkvBNKk8Ua5RijVKsUS5epvKmJPwmKm9KwpuKNUqxRinWKBcfloQ7VJ5IQqdykoQnknCHyicVa5RijVKsUS7+OJUuCV0SOpVOZZJijVKsUYo1ysUfl4RO5Y4kdCp/WbFGKdYoxRrl4sNUPkmlS0Kn0iXhTSq/SbFGKdYoxRrl4mVJ+KYkdCpdEjqVLgl3JOE3K9YoxRqlWKPEH/xDknCi8pcVa5RijVKsUS4eSkKncpKET1LpktCpdEnoktCpnCShU+mScIfKE8UapVijFGuUi4dUTpLQqZwkoVM5ScKbVLokdConSThR+aRijVKsUYo1ysXLknCShDuS0KmcJOEOlS4JT6icJOFE5YlijVKsUYo1ysWXqXRJ6FQ+KQmdSqdyh0qXhBOVTyrWKMUapVijXDyUhBOVJ5LQqXQqXRI6lSeS0KncodIloVN5U7FGKdYoxRol/uAPS8KbVJ5IQqfSJeFE5YlijVKsUYo1ysVDSfgmlTtUTpLQJeFNSehUPqlYoxRrlGKNcvEylTcl4Q6VkyTcoXKShN+kWKMUa5RijXLxYUm4Q+WJJHQqd6h0SXhCpUvCicoTxRqlWKMUa5SLYVS6JDyh0iWhUzlJQqfyScUapVijFGuUiz9OpUvCicodSehUuiR0Kp1Kl4QTlSeKNUqxRinWKBcfpvJNKk8k4SQJJ0n4PxVrlGKNUqxRLl6WhG9KQqfSJeFEpVM5ScKJSpeETuWTijVKsUYp1ijxB2uMYo1SrFGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVij/AfGpQP+1DbhAQAAAABJRU5ErkJggg=="
-    },
-    {
-      "name": "Joel",
-      "lastname": "Castillo",
-      "email": "latinreve@gmail.com",
-      "phone": "+584126334125",
-      "id": "aefk0M",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKwSURBVO3BQW7gSAwEwSxC//9y7hx5akCQ5LUJRsR/WGMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRrl4qEk/CSVLgknKk8k4SepPFGsUYo1SrFGuXiZypuS8KYknKicqLwpCW8q1ijFGqVYo1x8LAl3qNyhcpKEE5UnknCHypeKNUqxRinWKBd/XBI6lU6lS8JkxRqlWKMUa5SLP07lJAmdymTFGqVYoxRrlIuPqUym8psUa5RijVKsUS5eloSflIRO5Y4kdConSfjNijVKsUYp1igXD6n8ZSonKn9JsUYp1ijFGuXioSR0Kl0STlS6JNyh0iXhTUnoVE6S0Kl0SThReaJYoxRrlGKNcvGQyh0qJyp3JOGJJHQqnUqXhE7lJAmdSpeENxVrlGKNUqxRLn5YEjqVLgl3qHRJ6FTuSMIdSehUTpLwpWKNUqxRijXKxUNJOFHpknCHSpeELglfUrkjCZ1Kp/KlYo1SrFGKNcrFx5LQqXRJ6FS6JHQqXRJOknCi0iXhjiR0Kv+nYo1SrFGKNcrFQypPqJyo3KHSJaFTeZPKb1KsUYo1SrFGuXgoCT9J5Q6VJ5LQqXRJ6FS6JHQqXyrWKMUapVijXLxM5U1JeCIJX1LpknBHEjqVJ4o1SrFGKdYoFx9Lwh0qd6h0SehUuiR0KidJ6JLwRBK+VKxRijVKsUa5+OOS0Kl0SehUTpLQqZwkoVPpknCi8qZijVKsUYo1ysVwKl0SOpUnVLokdCo/qVijFGuUYo1y8TGVL6mcJOEkCZ1Kl4RO5U1J6FSeKNYoxRqlWKNcvCwJPykJncqbVE6ScJKETqVTeVOxRinWKMUaJf7DGqNYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ij/Adf4BQDXuV9+AAAAAElFTkSuQmCC"
-    },
-    {
-      "name": "Joel",
-      "lastname": "Castillo",
-      "email": "latinreve@gmail.com",
-      "phone": "+584126334125",
-      "id": "nSMXLp",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKXSURBVO3BQY6kAAwEwUyL/3+5to8+ISFgZtrrCPPBGqNYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1igHN6n8pCR0KmeScIfKT0rCHcUapVijFGuUg4cl4UkqZ5Jwh0qXhDNJeJLKk4o1SrFGKdYoBy9TuSIJT1J5k8oVSXhTsUYp1ijFGuXgy6mcSUKn0iVhkmKNUqxRijXKwX9OpUvCNyvWKMUapVijHLwsCT8pCWeS0KnckYS/pFijFGuUYo1y8DCVv0SlS8IdKn9ZsUYp1ijFGsV88MVUuiT8z4o1SrFGKdYoBzepdEm4QqVLQqdyh0qXhE7lTUk4o9Il4Y5ijVKsUYo1ysFNSTij0iXhjEqXhE7lNyXhCpUuCW8q1ijFGqVYoxzcpNIl4YxKl4ROpVO5QuVJSXiSSpeEJxVrlGKNUqxRzAc3qDwpCXeodEnoVM4k4YxKl4Q7VLok3FGsUYo1SrFGMR88SOWOJHQqVyShUzmThDMqVyShU+mS8KZijVKsUYo1ivngi6l0SehUrkjCHSpdEjqVLglPKtYoxRqlWKMc3KTyk5JwRuWKJJxRuSIJv6lYoxRrlGKNcvCwJDxJ5UwSOpUuCVeovCkJnUqXhDuKNUqxRinWKAcvU7kiCVeodEnoVLokdCpXJOGMypkkvKlYoxRrlGKNcvDlktCpvEnlTBLOqLypWKMUa5RijXIwTBI6lTuScEalU+mS0CXhTcUapVijFGuUg5cl4S9ROZOEMypnkvCbijVKsUYp1igHD1P5SSp3JOGMyh0qXRI6lS4JdxRrlGKNUqxRzAdrjGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYo/wDWyTt8FZumdIAAAAASUVORK5CYII="
-    },
-    {
-      "name": "Joel",
-      "lastname": "Castillo",
-      "email": "latinreve@gmail.com",
-      "phone": "+584126334125",
-      "id": "egDJKE",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKgSURBVO3BQWrgUAwFwX7C979yT5ZafTC2w0SoKv5gjVGsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5SLh5Lwm1S6JJyodEk4UemS8JtUnijWKMUapVijXLxM5U1JOFHpktAloVPpknCHypuS8KZijVKsUYo1ysXHknCHypeS8KYk3KHypWKNUqxRijXKxR+XhE6lS0KnMlmxRinWKMUa5WKYJJwk4UTlLyvWKMUapVijXHxM5TepdEnoVLokPKHyPynWKMUapVijXLwsCZMl4X9WrFGKNUqxRok/+MOScIfKZMUapVijFGuUi4eS0KnckYROpUvCHSpdEk6S8CWVkyR0Kk8Ua5RijVKsUS4+loQ7ktCp3JGEL6mcJKFLwonKm4o1SrFGKdYoFw+p3KHSJaFT6ZLQqZyovEnlDpUuCb+pWKMUa5RijXLxUBKeUDlRuSMJnUqXhBOVkyR0KicqXRK+VKxRijVKsUaJP/hQEk5UuiScqDyRhE7lJAl3qHRJ6FS6JHQqTxRrlGKNUqxR4g/+sCS8SeWJJNyh8qZijVKsUYo1ysVDSfhNKm9SOUnCEypdEr5UrFGKNUqxRrl4mcqbknCicpKETuUkCScqXRI6lROVLgmdyhPFGqVYoxRrlIuPJeEOlTuScKJykoQ7ktCpnCShU/lSsUYp1ijFGuXij1PpktAloVN5QuUOlS4JXyrWKMUapVijXAyj0iXhCZWTJNyh8qVijVKsUYo1ysXHVH5TEk6ScKJyh8r/pFijFGuUYo1y8bIk/KYkPKFykoROpUtCp9IloVPpktCpPFGsUYo1SrFGiT9YYxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGuUf3c/47gl18EIAAAAASUVORK5CYII="
-    },
-    {
-      "name": "Joel",
-      "lastname": "Castillo",
-      "email": "latinreve@gmail.com",
-      "phone": "+584126334125",
-      "id": "P1GHRC",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAK3SURBVO3BQW7kQAwEwSxC//9yro88NSBIM2sTjIg/WGMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRrl4qEkfJNKl4QTlS4JncpJEr5J5YlijVKsUYo1ysXLVN6UhBOVkyScJKFTOVF5UxLeVKxRijVKsUa5+LAk3KHyRBI6lS4JncoTSbhD5ZOKNUqxRinWKBd/XBJOktCpTFasUYo1SrFGuRhGpUvCSRI6lb+sWKMUa5RijXLxYSrflISTJHQqT6j8JsUapVijFGuUi5cl4X9S6ZLQqXRJ6FROkvCbFWuUYo1SrFEuHlL5S5Jwh8pfUqxRijVKsUa5eCgJncodSehUuiTckYQ7VLokvEnlJAmdyhPFGqVYoxRrlPiDL0rCicodSThR6ZJwonKShE6lS8IdKm8q1ijFGqVYo1w8lIROpUvCiUqXhBOVE5UuCScqJ0k4SUKncpKETyrWKMUapVijxB98URI6lTcloVO5IwknKl0SOpUuCZ1Kl4RO5YlijVKsUYo1ysVDSehUuiR0Kl0SOpUuCZ1Kl4ROpUtCp9Il4QmV36RYoxRrlGKNcvGQyonKicqJyiRJ+KRijVKsUYo1ysVDSfgmlW9S+SSVNxVrlGKNUqxRLl6m8qYknKjckYQTlZMkdCpdEjqVLgldEjqVJ4o1SrFGKdYoFx+WhDtU7khCp9KpdEnoVE6ScJKE36RYoxRrlGKNcvHHqXRJ6FROktCpdCpPJOGbijVKsUYp1igXwyXhROUkCW9S+aRijVKsUYo1ysWHqfxPKnck4QmVLgknSehUnijWKMUapVijXLwsCd+UhE6lS0Kn0iXhDpUnkvBJxRqlWKMUa5T4gzVGsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxR/gGg1gcEnc352gAAAABJRU5ErkJggg=="
-    }
-  ],
-  "piezas": [
-    {
-      "name": "5mm Screws",
-      "size": "Small",
-      "material": "Metal",
-      "id": "Yd2wnB",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKpSURBVO3BQW7sWAwEwSxC979yjpdcPUCQusfmZ0T8wRqjWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoFw8l4ZtU7khCp3JHEr5J5YlijVKsUYo1ysXLVN6UhE9KQqdyovKmJLypWKMUa5RijXLxYUm4Q+WOJDyh8kQS7lD5pGKNUqxRijXKxTAqXRL+JcUapVijFGuUi39MEk5U/rJijVKsUYo1ysWHqfyfVE6S8ITKb1KsUYo1SrFGuXhZEn6TJHQqTyThNyvWKMUapVijXDyk8pupdEm4Q+UvKdYoxRqlWKNcPJSETqVLwptUOpU7VLoknCThTSqfVKxRijVKsUa5eFkSOpUuCZ1Kl4ROpUvCiUqXhE7lDpUuCZ1Kl4Q7ktCpPFGsUYo1SrFGiT/4oiR0Kl0S7lDpknCHSpeETuUkCZ1Kl4QTlTcVa5RijVKsUS6+TOVE5Y4k3KFyonKShN+sWKMUa5RijRJ/8EFJ6FS6JHQqXRLuUOmScKLSJaFTOUnCicpJEjqVJ4o1SrFGKdYo8Qd/WBI6lZMkvEnlJAknKm8q1ijFGqVYo1w8lIRvUulU7lDpktCpdEl4QqVLwicVa5RijVKsUS5epvKmJJwk4U1JuCMJd6h0SehUnijWKMUapVijXHxYEu5QeZPKSRI6lZMkdCpdEjqVLgmdypuKNUqxRinWKBfDqPwmSehUPqlYoxRrlGKNcjFMEu5Q6ZLQqXQqd6h8U7FGKdYoxRrl4sNUPkmlS8KJyonKSRLuSEKn8knFGqVYoxRrlIuXJeGbktCpnCShU+mS0Kl0Kl0SOpWTJHQqbyrWKMUapVijxB+sMYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijfIfC4MK5bULDSkAAAAASUVORK5CYII="
-    },
-    {
-      "name": "5mm Screws",
-      "size": "Small",
-      "material": "Metal",
-      "id": "pjo7zc",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKuSURBVO3BQY7YSAwEwSxC//9y7hx5akCQNLa5jIg/WGMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRrl4qEk/CaVO5LQqXRJ6FS6JPwmlSeKNUqxRinWKBcvU3lTEu5IwpdU3pSENxVrlGKNUqxRLj6WhDtU7khCp9Il4UTliSTcofKlYo1SrFGKNcrFcConSehU/mXFGqVYoxRrlIthkvB/VqxRijVKsUa5+JjKn6RykoQnVP4mxRqlWKMUa5SLlyXhT1LpktCpPJGEv1mxRinWKMUa5eIhlb+ZSpeEO1T+JcUapVijFGuUi4eS0Kl0SXiTSqdykoROpUvCSRLepPKlYo1SrFGKNcrFQypdEp5QOUlCp/IllS4JncoTSehUnijWKMUapVijxB88kIRO5Y4kvEmlS8KJSpeETuUkCZ3KSRI6lTcVa5RijVKsUeIPPpSEE5UuCZ3KHUk4UXkiCU+ofKlYoxRrlGKNEn/wQBLuUOmScIdKl4QnVLokdConSehU/qRijVKsUYo1SvzBPywJnUqXhC+pdEnoVLoknKg8UaxRijVKsUa5eCgJv0mlU7lDpUtCp9Il4UsqbyrWKMUapVijXLxM5U1JOEnCiUqXhJMknKh0SehUuiR0Kl0SOpUnijVKsUYp1igXH0vCHSpvSkKn0iWhUzlJQqfSJaFT6ZLQqbypWKMUa5RijXIxnMqXknCShE7lS8UapVijFGuUi2FUuiScqHRJ6FQ6lZMkdCq/qVijFGuUYo1y8TGVL6ncoXKicpKEO5LQqXypWKMUa5RijXLxsiT8piTckYROpUtCp/KESpeETuVNxRqlWKMUa5T4gzVGsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxR/gM93xHhwj/BFQAAAABJRU5ErkJggg=="
-    },
-    {
-      "name": "5mm Screws",
-      "size": "Small",
-      "material": "Metal",
-      "id": "04cZ3p",
-      "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAALCSURBVO3BQQ4bSQwEwSxi/v/lXB95aqChkWBzGRH/YI1RrFGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUhw8l4ZdUuiR0Kl0SOpUbSfgllU8Ua5RijVKsUR5epvKmJHxC5U0qb0rCm4o1SrFGKdYoD1+WhBsqN1ROktCpdEnoVG4k4YbKNxVrlGKNUqxRHv5xSThR6ZIwWbFGKdYoxRrl4R+n0iXhRGWyYo1SrFGKNcrDl6lMpvI3KdYoxRqlWKM8vCwJv5SETqVLQqfSJaFTOUnC36xYoxRrlGKNEv/gH5aEE5X/k2KNUqxRijXKw4eS0Kl0SThR6ZJwQ+UkCZ3KjSR0KidJ6FS6JJyofKJYoxRrlGKN8vAhlRsqN1RuJOFGEjqVTqVLQqdykoRfKtYoxRqlWKM8vCwJN5LQqXRJOFE5UbmRhBtJOFE5ScKbijVKsUYp1igPP5aEkyR0Kl0SuiR0Kl0SOpUbKjeScJKETuVNxRqlWKMUa5SHDyWhUzlJwolKl4ROpUvCjSR0Kl0SbiShUzlR+aZijVKsUYo1ysOHVG6o3FB5k8qbVLokdCpdEjqVNxVrlGKNUqxRHj6UhF9SOUlCp/KJJHQqXRJOkvBLxRqlWKMUa5SHl6m8KQk3VE6S8IkkdCpdEk5UuiR0Kp8o1ijFGqVYozx8WRJuqNxQOUnCicpJEjqVE5WTJHxTsUYp1ijFGuXhH5eEGyonSehUuiR0KidJOFF5U7FGKdYoxRrlYRiVLgldEjqVGyo3VH6pWKMUa5RijfLwZSrfpNIloVPpktAloVPpkvAJlZMkdCqfKNYoxRqlWKM8vCwJv5SETuVNKidJOElCp9KpvKlYoxRrlGKNEv9gjVGsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5T/ALPAEf8Jh+mlAAAAAElFTkSuQmCC"
-    }
-  ],
-  "almacenes": []
+    "maquinas": [
+        {
+            "id": 2,
+            "type": "Technology",
+            "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+            "email": "peggerton1@comsenz.com"
+        },
+        {
+            "id": 3,
+            "type": "n/a",
+            "description": "Donec ut mauris eget massa tempor convallis.",
+            "email": "amcgenis2@bbb.org"
+        },
+        {
+            "id": 4,
+            "type": "n/a",
+            "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+            "email": "tliepmann3@amazon.co.uk"
+        },
+        {
+            "id": 5,
+            "type": "Finance",
+            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+            "email": "kankrett4@xrea.com"
+        },
+        {
+            "id": 6,
+            "type": "Consumer Services",
+            "description": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
+            "email": "jvaughton5@is.gd"
+        },
+        {
+            "id": 7,
+            "type": "Technology",
+            "description": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+            "email": "lcleeve6@oakley.com"
+        },
+        {
+            "id": 8,
+            "type": "Health Care",
+            "description": "In hac habitasse platea dictumst.",
+            "email": "rshrigley7@adobe.com"
+        },
+        {
+            "id": 9,
+            "type": "Health Care",
+            "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+            "email": "mturneux8@reuters.com"
+        },
+        {
+            "id": 10,
+            "type": "Finance",
+            "description": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
+            "email": "dgaineofengland9@uol.com.br"
+        },
+        {
+            "id": 11,
+            "type": "n/a",
+            "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
+            "email": "msmootha@elegantthemes.com"
+        },
+        {
+            "id": 12,
+            "type": "Technology",
+            "description": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+            "email": "kmaaszeb@bigcartel.com"
+        },
+        {
+            "id": 13,
+            "type": "Capital Goods",
+            "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+            "email": "rcrosfeldc@yandex.ru"
+        },
+        {
+            "id": 14,
+            "type": "n/a",
+            "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+            "email": "nbuddingtond@google.ru"
+        },
+        {
+            "id": 15,
+            "type": "n/a",
+            "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+            "email": "svignauxe@earthlink.net"
+        },
+        {
+            "id": 16,
+            "type": "Energy",
+            "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
+            "email": "gmcgowingf@dmoz.org"
+        },
+        {
+            "id": 17,
+            "type": "Finance",
+            "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+            "email": "rseillerg@clickbank.net"
+        },
+        {
+            "id": 18,
+            "type": "n/a",
+            "description": "Donec dapibus.",
+            "email": "wtodh@weebly.com"
+        },
+        {
+            "id": 19,
+            "type": "Finance",
+            "description": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+            "email": "slawtheri@blogger.com"
+        },
+        {
+            "id": 20,
+            "type": "Basic Industries",
+            "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
+            "email": "nmurchj@google.nl"
+        },
+        {
+            "id": 21,
+            "type": "Public Utilities",
+            "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+            "email": "ajandourekk@spotify.com"
+        },
+        {
+            "id": 22,
+            "type": "Technology",
+            "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "email": "naccombel@cdbaby.com"
+        },
+        {
+            "id": 23,
+            "type": "Health Care",
+            "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+            "email": "iginmanm@imageshack.us"
+        },
+        {
+            "id": 24,
+            "type": "Capital Goods",
+            "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+            "email": "kgartlandn@etsy.com"
+        },
+        {
+            "id": 25,
+            "type": "Consumer Services",
+            "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "email": "iarieso@cyberchimps.com"
+        },
+        {
+            "id": 26,
+            "type": "Capital Goods",
+            "description": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
+            "email": "lmowsonp@slate.com"
+        },
+        {
+            "id": 27,
+            "type": "Consumer Services",
+            "description": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.",
+            "email": "astallebrassq@intel.com"
+        },
+        {
+            "id": 28,
+            "type": "Finance",
+            "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+            "email": "spennickr@pbs.org"
+        },
+        {
+            "id": 29,
+            "type": "n/a",
+            "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+            "email": "sgianettis@webmd.com"
+        },
+        {
+            "id": 30,
+            "type": "Health Care",
+            "description": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+            "email": "csummerst@uol.com.br"
+        },
+        {
+            "id": 31,
+            "type": "Consumer Services",
+            "description": "Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+            "email": "skalkeru@microsoft.com"
+        },
+        {
+            "id": 32,
+            "type": "Finance",
+            "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+            "email": "ovaneevv@time.com"
+        },
+        {
+            "id": 33,
+            "type": "Finance",
+            "description": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
+            "email": "hsayew@bravesites.com"
+        },
+        {
+            "id": 34,
+            "type": "n/a",
+            "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+            "email": "arathbournex@cisco.com"
+        },
+        {
+            "id": 35,
+            "type": "Health Care",
+            "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+            "email": "smacphaily@vinaora.com"
+        },
+        {
+            "id": 36,
+            "type": "Finance",
+            "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+            "email": "sbrownsellz@vistaprint.com"
+        },
+        {
+            "id": 37,
+            "type": "Health Care",
+            "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
+            "email": "glawland10@bravesites.com"
+        },
+        {
+            "id": 38,
+            "type": "Consumer Services",
+            "description": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
+            "email": "citzhaiek11@sourceforge.net"
+        },
+        {
+            "id": 39,
+            "type": "Miscellaneous",
+            "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
+            "email": "gpitts12@w3.org"
+        },
+        {
+            "id": 40,
+            "type": "Energy",
+            "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+            "email": "chaacker13@examiner.com"
+        },
+        {
+            "id": 41,
+            "type": "n/a",
+            "description": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+            "email": "sdunphie14@wp.com"
+        },
+        {
+            "id": 42,
+            "type": "Basic Industries",
+            "description": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+            "email": "tlaurencot15@nationalgeographic.com"
+        },
+        {
+            "id": 43,
+            "type": "n/a",
+            "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+            "email": "pvanyashin16@blog.com"
+        },
+        {
+            "id": 44,
+            "type": "n/a",
+            "description": "Nam nulla.",
+            "email": "tchess17@chicagotribune.com"
+        },
+        {
+            "id": 45,
+            "type": "Energy",
+            "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+            "email": "gcornock18@eepurl.com"
+        },
+        {
+            "id": 46,
+            "type": "Consumer Services",
+            "description": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+            "email": "ncockett19@earthlink.net"
+        },
+        {
+            "id": 47,
+            "type": "n/a",
+            "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+            "email": "asilvers1a@sogou.com"
+        },
+        {
+            "id": 48,
+            "type": "Public Utilities",
+            "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+            "email": "fdimsdale1b@scribd.com"
+        },
+        {
+            "id": 49,
+            "type": "Consumer Services",
+            "description": "Suspendisse ornare consequat lectus.",
+            "email": "lrosina1c@google.es"
+        },
+        {
+            "id": 50,
+            "type": "Capital Goods",
+            "description": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+            "email": "tromain1d@aboutads.info"
+        }
+    ],
+    "users": [
+
+    ],
+    "piezas": [
+        {
+            "name": "5mm Screws",
+            "size": "Small",
+            "material": "Metal",
+            "id": "Yd2wnB",
+            "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKpSURBVO3BQW7sWAwEwSxC979yjpdcPUCQusfmZ0T8wRqjWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoFw8l4ZtU7khCp3JHEr5J5YlijVKsUYo1ysXLVN6UhE9KQqdyovKmJLypWKMUa5RijXLxYUm4Q+WOJDyh8kQS7lD5pGKNUqxRijXKxTAqXRL+JcUapVijFGuUi39MEk5U/rJijVKsUYo1ysWHqfyfVE6S8ITKb1KsUYo1SrFGuXhZEn6TJHQqTyThNyvWKMUapVijXDyk8pupdEm4Q+UvKdYoxRqlWKNcPJSETqVLwptUOpU7VLoknCThTSqfVKxRijVKsUa5eFkSOpUuCZ1Kl4ROpUvCiUqXhE7lDpUuCZ1Kl4Q7ktCpPFGsUYo1SrFGiT/4oiR0Kl0S7lDpknCHSpeETuUkCZ1Kl4QTlTcVa5RijVKsUS6+TOVE5Y4k3KFyonKShN+sWKMUa5RijRJ/8EFJ6FS6JHQqXRLuUOmScKLSJaFTOUnCicpJEjqVJ4o1SrFGKdYo8Qd/WBI6lZMkvEnlJAknKm8q1ijFGqVYo1w8lIRvUulU7lDpktCpdEl4QqVLwicVa5RijVKsUS5epvKmJJwk4U1JuCMJd6h0SehUnijWKMUapVijXHxYEu5QeZPKSRI6lZMkdCpdEjqVLgmdypuKNUqxRinWKBfDqPwmSehUPqlYoxRrlGKNcjFMEu5Q6ZLQqXQqd6h8U7FGKdYoxRrl4sNUPkmlS8KJyonKSRLuSEKn8knFGqVYoxRrlIuXJeGbktCpnCShU+mS0Kl0Kl0SOpWTJHQqbyrWKMUapVijxB+sMYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijfIfC4MK5bULDSkAAAAASUVORK5CYII="
+        },
+        {
+            "name": "5mm Screws",
+            "size": "Small",
+            "material": "Metal",
+            "id": "pjo7zc",
+            "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKuSURBVO3BQY7YSAwEwSxC//9y7hx5akCQNLa5jIg/WGMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRrl4qEk/CaVO5LQqXRJ6FS6JPwmlSeKNUqxRinWKBcvU3lTEu5IwpdU3pSENxVrlGKNUqxRLj6WhDtU7khCp9Il4UTliSTcofKlYo1SrFGKNcrFcConSehU/mXFGqVYoxRrlIthkvB/VqxRijVKsUa5+JjKn6RykoQnVP4mxRqlWKMUa5SLlyXhT1LpktCpPJGEv1mxRinWKMUa5eIhlb+ZSpeEO1T+JcUapVijFGuUi4eS0Kl0SXiTSqdykoROpUvCSRLepPKlYo1SrFGKNcrFQypdEp5QOUlCp/IllS4JncoTSehUnijWKMUapVijxB88kIRO5Y4kvEmlS8KJSpeETuUkCZ3KSRI6lTcVa5RijVKsUeIPPpSEE5UuCZ3KHUk4UXkiCU+ofKlYoxRrlGKNEn/wQBLuUOmScIdKl4QnVLokdConSehU/qRijVKsUYo1SvzBPywJnUqXhC+pdEnoVLoknKg8UaxRijVKsUa5eCgJv0mlU7lDpUtCp9Il4UsqbyrWKMUapVijXLxM5U1JOEnCiUqXhJMknKh0SehUuiR0Kl0SOpUnijVKsUYp1igXH0vCHSpvSkKn0iWhUzlJQqfSJaFT6ZLQqbypWKMUa5RijXIxnMqXknCShE7lS8UapVijFGuUi2FUuiScqHRJ6FQ6lZMkdCq/qVijFGuUYo1y8TGVL6ncoXKicpKEO5LQqXypWKMUa5RijXLxsiT8piTckYROpUtCp/KESpeETuVNxRqlWKMUa5T4gzVGsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxR/gM93xHhwj/BFQAAAABJRU5ErkJggg=="
+        },
+        {
+            "name": "5mm Screws",
+            "size": "Small",
+            "material": "Metal",
+            "id": "04cZ3p",
+            "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAALCSURBVO3BQQ4bSQwEwSxi/v/lXB95aqChkWBzGRH/YI1RrFGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUhw8l4ZdUuiR0Kl0SOpUbSfgllU8Ua5RijVKsUR5epvKmJHxC5U0qb0rCm4o1SrFGKdYoD1+WhBsqN1ROktCpdEnoVG4k4YbKNxVrlGKNUqxRHv5xSThR6ZIwWbFGKdYoxRrl4R+n0iXhRGWyYo1SrFGKNcrDl6lMpvI3KdYoxRqlWKM8vCwJv5SETqVLQqfSJaFTOUnC36xYoxRrlGKNEv/gH5aEE5X/k2KNUqxRijXKw4eS0Kl0SThR6ZJwQ+UkCZ3KjSR0KidJ6FS6JJyofKJYoxRrlGKN8vAhlRsqN1RuJOFGEjqVTqVLQqdykoRfKtYoxRqlWKM8vCwJN5LQqXRJOFE5UbmRhBtJOFE5ScKbijVKsUYp1igPP5aEkyR0Kl0SuiR0Kl0SOpUbKjeScJKETuVNxRqlWKMUa5SHDyWhUzlJwolKl4ROpUvCjSR0Kl0SbiShUzlR+aZijVKsUYo1ysOHVG6o3FB5k8qbVLokdCpdEjqVNxVrlGKNUqxRHj6UhF9SOUlCp/KJJHQqXRJOkvBLxRqlWKMUa5SHl6m8KQk3VE6S8IkkdCpdEk5UuiR0Kp8o1ijFGqVYozx8WRJuqNxQOUnCicpJEjqVE5WTJHxTsUYp1ijFGuXhH5eEGyonSehUuiR0KidJOFF5U7FGKdYoxRrlYRiVLgldEjqVGyo3VH6pWKMUa5RijfLwZSrfpNIloVPpktAloVPpkvAJlZMkdCqfKNYoxRqlWKM8vCwJv5SETuVNKidJOElCp9KpvKlYoxRrlGKNEv9gjVGsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5T/ALPAEf8Jh+mlAAAAAElFTkSuQmCC"
+        }
+    ],
+    "almacenes": []
 }
