@@ -18,7 +18,7 @@
     "pino-pretty": "^4.0.0"
   },
   "dependencies": {
-    "nanoid": "^3.1.10",
+    "nanoid": "^3.1.31",
     "pino": "^6.3.2",
     "qrcode": "^1.4.4"
   }
